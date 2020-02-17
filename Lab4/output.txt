@@ -1,0 +1,26 @@
+
+four-vector of proton1: 
+(4.08,0,0,4.08)
+invariant mass: 0
+four-vector of proton2: 
+(4.08,0,0,-4.08)
+invariant mass: 0
+
+four-vector of proton1+proton2: 
+(8.16,0,0,0)
+invariant mass: 8.16
+
+Scalar product of proton1.proton2 = 33.2928
+
+Random four-vectors:
+(97,8,10,50)
+82.1279
+(91,69,96,40)
+-85.4166
+(50,83,4,2)
+-66.4003
+(48,4,11,36)
+29.5127
+(50,89,91,98)
+-152.663
+
