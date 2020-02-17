@@ -1,0 +1,15 @@
+
+Glucosamine, David Darell, 2001, crime, 9732424426366
+Glactica, Henry Altar, 1989, sci-fi, 9765325332323
+Ice, Jared Monary, 1998, sci-fi, 9862354325245
+Fire, John Placman, 1995, crime, 9784419810342
+Institute, Stephen King, 2019, thiller, 9781982110567
+Outsider, Stephen King, 2018, thiller, 9781501180989
+Plastuś, Maria Kownacka, 1936, undefined, 9722332323442
+Shining, Stephen King, 1977, thiller, 9780385121675
+Misery, Stephen King, 1987, thiller, 9780670813643
+Snowman, Jo Nesbo, 2007, crime, 9788203192128
+
+Looking for book: Cujo ...   not found.
+Looking for book: Institute ...   found. Author: Stephen King
+
