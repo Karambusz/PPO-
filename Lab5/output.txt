@@ -1,0 +1,29 @@
+
+++++ First list ++++
+electron(0.5)
+gluon(0)
+higgs(125000)
++++++++  end  ++++++
+
+Last element:
+higgs(125000)
+
+++++ Second list ++++
+proton(1000)
+res(2000)
+res(3000)
+res(4000)
+res(5000)
+res(6000)
+res(7000)
+res(8000)
+res(9000)
+res(10000)
+res(11000)
+res(12000)
+res(13000)
+res(14000)
+res(15000)
++++++++  end  +++++++
+
+
