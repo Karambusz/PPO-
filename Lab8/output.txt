@@ -1,0 +1,10 @@
+
+SubaruDealer: No place for more cars.
+
+model: Forester, year: 2019, mileage: 3
+
+SubaruDealer: no such car.
+AutoLarusso income: 46000
+JapanMotors income: 52400
+All dealers total income: 98400
+
