@@ -1,0 +1,15 @@
+
+Nuber of created nodes: 10
+
+++++++++++++++++++++
+Coin value: 1PLN, tails
+Coin value: 1PLN, heads
+Coin value: 1PLN, heads
+Coin value: 1PLN, heads
+Coin value: 1PLN, heads
+Coin value: 1PLN, heads
+Coin value: 1PLN, tails
+Coin value: 1PLN, tails
+Coin value: 1PLN, tails
+Coin value: 1PLN, heads
+
