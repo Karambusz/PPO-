@@ -1,0 +1,49 @@
+
+-click- -click- -click- -click- -click- -click- 
+-click- 
+Bang!
+Gun: Chamber is empty. Reload.
+-click- 
+Bang!
+-click- 
+Bang!
+-click- 
+Bang!
+-click- 
+Bang!
+-click- 
+Bang!
+Gun: Magazine empty.
+Gun: Chamber is empty. Reload.
+-click- -click- -click- -click- -click- -click- 
+-click- 
+Bang!
+-click- 
+Bang!
+-click- 
+Bang!
+-click- 
+Bang!
+-click- 
+Bang!
+-click- 
+Bang!
+
+++++++++++++++++
+
+-click- -click- -click- -click- -click- 
+-click- 
+Bang!
+-click- 
+Bang!
+-click- 
+Bang!
+-click- -click- -click- 
+Bang!
+-click- 
+Bang!
+Gun: Magazine empty.
+Gun: Chamber is empty. Reload.
+Gun: Magazine empty.
+Gun: Chamber is empty. Reload.
+
