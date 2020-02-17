@@ -1,0 +1,21 @@
+
+I tossed 1 PLN and got:
+heads
+heads
+tails
+I put my coin to the piggybank.
+I tossed 5 PLN and got:
+heads
+I put my coin to the piggybank.
+I tossed 2 PLN and got:
+heads
+I put my coin to the piggybank.
+
+My piggybank has 8 PLN in total.
+
+++++++++++++++++++++++++++++++
+
+Piggybank is full...
+
+My piggybank has 33 PLN in total.
+
