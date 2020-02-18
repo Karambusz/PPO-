@@ -26,7 +26,6 @@
 ///    \n\n
 
 
-/// ZESPOL: Vadym Semkovych i Bartosz Mikolajczyk
 
 
 #include<iostream>
